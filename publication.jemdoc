@@ -4,10 +4,6 @@
 
 == Publications
 
-- Controlling the false discovery rate via model-agnostic importance measures. \n
-Mengtao Wen, Haojie Ren, and Changliang Zou. \n
-Under review. 
-
 - [https://academic.oup.com/biomet/article-abstract/112/1/asae056/7852832 Semi-supervised distribution learning]. \n
 Mengtao Wen, Yinxu Jia, Haojie Ren, Zhaojun Wang, and Changliang Zou. \n 
 /Biometrika/, 2025.\ \ \[[./documents/BASD24.pdf PDF]\]\ \[[./documents/BASD24s.pdf Supp]\] \[[https://github.com/mtwen/BASD R Code]\]
@@ -19,6 +15,12 @@ Mengtao Wen, Guanghui Wang, Changliang Zou, and Zhaojun Wang. \n
 - [https://www.sciencedirect.com/science/article/abs/pii/S0047259X23000702 False discovery rate approach to dynamic change detection]. \n
 Lilun Du and Mengtao Wen. \n 
 /Journal of Multivariate Analysis/, 2023. \[[./documents/PADD23.pdf PDF]\]
+
+== Manuscripts
+
+- Controlling the false discovery rate via model-agnostic importance measures. \n
+Mengtao Wen, Haojie Ren, and Changliang Zou. \n
+Under review. 
 
 == Software
 
