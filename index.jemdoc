@@ -1,5 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
-# jemdoc: nofooter
+# jemdoc: menu{MENU}{index.html}, nofooter
 = Mengtao Wen
 
 ~~~
@@ -21,9 +20,9 @@ Email: mtwen97 \[at\] gmail.com \n
 
 == Recent Papers
 
-- Wang, G., *Wen, M.*, and Zou, C. (2025+) \n
+- Wang, G., *Wen, M.*, and Zou, C. (α-β, 2025+) \n
 [https://arxiv.org/abs/2512.16363 Empirical likelihood meets prediction-powered inference]. arXiv:2512.16363. \n
 
 - *Wen, M.*, Jia, Y., Ren, H., Wang, Z., and Zou, C. (2025) \n
-[https://academic.oup.com/biomet/article-abstract/112/1/asae056/7852832 Semi-supervised distribution learning]. /Biometrika/, 112(1), asae056.
+[https://academic.oup.com/biomet/article-abstract/112/1/asae056/7852832 Semi-supervised distribution learning]. /Biometrika/, 112(1), asae056.\n
 

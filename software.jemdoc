@@ -1,0 +1,7 @@
+# jemdoc: menu{MENU}{software.html}, nofooter
+= Software
+
+== R Packages
+
+- [https://github.com/mtwen/SLIP SLIP], an R package for change-point discovery in large-scale data streams. \n
+Reference: [https://www3.stat.sinica.edu.tw/statistica/j34n3/J34N317/J34N317.html Activation discovery with FDR control: Application to fMRI data].

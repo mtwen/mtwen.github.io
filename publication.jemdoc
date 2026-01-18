@@ -1,6 +1,4 @@
-# jemdoc: menu{MENU}{publication.html}
-# jemdoc: nofooter
-
+# jemdoc: menu{MENU}{publication.html}, nofooter
 = Research
 
 
@@ -22,10 +20,8 @@ Du, L. and *Wen, M.*. \n
 == Manuscripts
 
 - Empirical likelihood meets prediction-powered inference. \n 
-Wang, G., *Wen, M.*, and Zou, C. \n
+Wang, G., *Wen, M.*, and Zou, C. (α-β) \n
 2025+. \[[https://arxiv.org/abs/2512.16363 arXiv]\]
 
 
-== Software
-
-- [https://github.com/mtwen/SLIP SLIP], an R package for change-point discovery in large-scale data streams. \n
+: {α-β stands for the alphabetical order.}
