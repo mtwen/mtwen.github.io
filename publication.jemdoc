@@ -2,29 +2,36 @@
 # jemdoc: nofooter
 = Research
 
+
 == Publications
 
 - [https://academic.oup.com/biomet/article-abstract/112/1/asae056/7852832 Semi-supervised distribution learning]. \n
-*Mengtao Wen*, Yinxu Jia, Haojie Ren, Zhaojun Wang, and Changliang Zou. \n 
-/Biometrika/, 2025. \[[./documents/BASD24.pdf PDF]\]\ \[[./documents/BASD24s.pdf Supp]\] \[[https://github.com/mtwen/BASD R Code]\]
+*Wen, M.*, Jia, Y., Ren, H., Wang, Z., and Zou, C. \n 
+/Biometrika/ 112(1), asae056, 2025. \[[./documents/BASD24.pdf PDF]\]\ \[[./documents/BASD24s.pdf Supp]\] \[[https://github.com/mtwen/BASD R Code]\]
 
 - [https://www3.stat.sinica.edu.tw/statistica/j34n3/J34N317/J34N317.html Activation discovery with FDR control: Application to fMRI data]. \n
-*Mengtao Wen*, Guanghui Wang, Changliang Zou, and Zhaojun Wang. \n 
-/Statistica Sinica/, 2024. \[[./documents/SLIP22.pdf PDF]\] \[[./documents/SLIP22s.pdf Supp]\] \[[https://github.com/mtwen/SLIP R Package]\]
+*Wen, M.*, Wang, G., Zou, C., and Wang, Z. \n 
+/Statistica Sinica/ 34(3), 1625--1647, 2024. \[[./documents/SLIP22.pdf PDF]\] \[[./documents/SLIP22s.pdf Supp]\] \[[https://github.com/mtwen/SLIP R Package]\]
 
 - [https://www.sciencedirect.com/science/article/abs/pii/S0047259X23000702 False discovery rate approach to dynamic change detection]. \n
-Lilun Du and *Mengtao Wen*. \n 
-/Journal of Multivariate Analysis/, 2023. \[[./documents/PADD23.pdf PDF]\]
+Du, L. and *Wen, M.*. \n 
+/Journal of Multivariate Analysis/ 198, 105224, 2023. \[[./documents/PADD23.pdf PDF]\]
+
 
 == Manuscripts
 
 - Controlling the false discovery rate via model-agnostic importance measures. \n
-*Mengtao Wen*, Haojie Ren, and Changliang Zou. \n
+*Wen, M.*, Ren, H., and Zou, C. \n
 2025+. 
 
 - Empirical likelihood meets prediction-powered inference. \n
-Guanghui Wang, *Mengtao Wen*, and Changliang Zou. \n
+Wang, G., *Wen, M.*, and Zou, C. \n
 2025+. \[[https://arxiv.org/abs/2512.16363 arXiv]\]
+
+- Algorithm-agnostic post-clustering differential expression analysis with asymptotic FDR control. \n
+Liu, J., *Wen, M.*, Zou, C., and Liu, L. \n
+2026+. 
+
 
 == Software
 
