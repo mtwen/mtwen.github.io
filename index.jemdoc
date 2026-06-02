@@ -5,8 +5,9 @@
 {}{img_left}{mengtao.png}{alt text}{354.3px}{236.3px}{}
 Welcome to my homepage!\n
 \n
-I am a postdoctoral researcher in the [http://en.stat.nankai.edu.cn School of Statistics and Data Science] at Nankai University, advised by Professor [http://web.stat.nankai.edu.cn/chlzou/ Changliang Zou]. \n
-\n
+I am a lecturer in the [http://en.stat.nankai.edu.cn School of Statistics and Data Science] at Nankai University.
+
+From 2024--2026, I was a postdoctoral researcher in the [http://en.stat.nankai.edu.cn School of Statistics and Data Science] at Nankai University, advised by Professor [http://web.stat.nankai.edu.cn/chlzou/ Changliang Zou]. 
 I obtained my Ph.D. in Statistics from Nankai University, advised by Professor [http://web.stat.nankai.edu.cn/zjwang/ Zhaojun Wang]. 
 Prior to this, I received my B.S. degree from Peking University. 
 You can also find me on [https://scholar.google.com/citations?user=26o2dsQAAAAJ&hl=en Google scholar] and [https://github.com/mtwen GitHub]. \n
@@ -17,12 +18,3 @@ Email: mtwen97 \[at\] gmail.com \n
 == Research Interests 
 - Multiple Testing 
 - Predictive Inference 
-
-== Recent Papers
-
-- Wang, G., *Wen, M.*, and Zou, C. (α-β, 2025+) \n
-[https://arxiv.org/abs/2512.16363 Empirical likelihood meets prediction-powered inference]. arXiv:2512.16363. \n
-
-- *Wen, M.*, Jia, Y., Ren, H., Wang, Z., and Zou, C. (2025) \n
-[https://academic.oup.com/biomet/article-abstract/112/1/asae056/7852832 Semi-supervised distribution learning]. /Biometrika/, 112(1), asae056.\n
-
